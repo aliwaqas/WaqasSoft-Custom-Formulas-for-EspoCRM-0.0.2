@@ -1,0 +1,14 @@
+{
+    "name": "UmairSoft Custom Formulas PH#+923008682814",
+    "description": "Extension let you use custom formulas. Support available through email aliwaqas.sdk@hotmail.com",
+    "author": "AliWaqas S.C. - aliwaqas.sdk@hotmail.com",
+    "php": [
+        ">=7.3"
+    ],
+    "acceptableVersions": [
+        ">=6.1.0"
+    ],
+    "version": "0.0.2",
+    "skipBackup": true,
+    "releaseDate": "2021-09-03"
+}
